@@ -74,6 +74,15 @@ Others
 
 ## Tools
 
+### Gõ tiếng Việt
+
+- EVkey official https://evkeyvn.com
+- Unikey officical https://www.unikey.org
+
+### Translate
+
+- https://quest-app.appspot.com
+- Google Translate https://translate.google.com
 
 ## go-ahead ...
 
