@@ -79,10 +79,36 @@ Others
 - EVkey official https://evkeyvn.com
 - Unikey officical https://www.unikey.org
 
+### IDE
+
+- Visual Code
+
+### VPN
+
+- Forticlient
+- OpenVPN
+
+### Compress
+
+- 7zip
+- WinRAR
+
+### SSH client 
+
+- Windows Terminal
+- MobaXterm
+- mRemoteNG
+
 ### Translate
 
 - https://quest-app.appspot.com
 - Google Translate https://translate.google.com
+
+### Authentication
+
+- Google
+- Microsoft
+- Yubico
 
 ## go-ahead ...
 
