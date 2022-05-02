@@ -150,6 +150,20 @@ Saved
 - Microsoft
 - Yubico
 
+# Others
+
+## Cloud storage
+
+Open-source
+- ownCloud
+- Ceph
+
+Public
+- Google Drive
+- OneDrive
+- Dropbox
+- iCloud
+
 ## go-ahead ...
 
 - ref https://play.google.com/store/apps
