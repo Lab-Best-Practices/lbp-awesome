@@ -1,6 +1,23 @@
 # lbp-awesome
 
+## Websites
 
+- Canh me https://canhme.com
+- Anonyviet https://anonyviet.com
+- Tôi đi code dạo https://toidicodedao.com
+- Share ngay https://sharengay.com
+- Tùng tùng https://tungtung.vn
+- https://povietnam.com
+- https://springcoupon.com
+- https://tocdo.net
+- Cường Quách https://cuongquach.com
+- Blogd https://blogd.net
+- Học VPS https://hocvps.com
+- https://blog.nguyenanhkiet.net
+- Blog chia sẻ kiến thức https://blogchiasekienthuc.com
+- https://linuxteamvietnam.us
+- https://www.thekalitools.com
+- https://techzones.me
 
 ## Art and design
 
