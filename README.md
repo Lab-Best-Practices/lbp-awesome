@@ -22,6 +22,11 @@
 - Linkneverdie https://linkneverdie.net
 - ServerWorld https://www.server-world.info/en
 
+### Search engine
+
+- Google https://www.google.com
+- Bing https://www.bing.com
+
 
 ## Art and design
 
