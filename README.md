@@ -18,6 +18,10 @@
 - https://linuxteamvietnam.us
 - https://www.thekalitools.com
 - https://techzones.me
+- https://www.studyphim.vn
+- Linkneverdie https://linkneverdie.net
+- ServerWorld https://www.server-world.info/en
+
 
 ## Art and design
 
