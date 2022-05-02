@@ -4,6 +4,9 @@
 
 ## Art and design
 
+- Canva
+- Photoshop
+
 ## Communication
 
 Google
@@ -26,6 +29,7 @@ Others
 ## Entertaiment
 
 - Youtube
+- Netflix
 
 ## Music & Audio
 
@@ -60,8 +64,13 @@ Others
 
 ## Finance
 
+Banking
 - Vietcombank
 - TPbank
+
+Saved
+- Tikop
+- Finhay
 
 ## Personallization
 
@@ -71,6 +80,11 @@ Others
 
 - Udemy
 - Coursera
+
+### English apps
+
+- Mochi Mochi
+- Duolingo
 
 ## Tools
 
